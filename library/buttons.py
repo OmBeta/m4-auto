@@ -35,7 +35,7 @@ home_button = [
 
 start_button = [
     [
-        InlineKeyboardButton("🏅 GitHub 🏅", url="github.com/m4mallu/clonebot"),
+        InlineKeyboardButton("🏅 Ask Owner for autorization 🏅", url="https://t.me/Om56577"),
         InlineKeyboardButton("⚙️ Settings ⚙", "start_btn")
     ]
 ]
@@ -84,8 +84,8 @@ close_button = [
 
 terminate_btn = [
     [
-        InlineKeyboardButton("🧸 Updates", url="https://github.com/m4mallu/clonebot"),
-        InlineKeyboardButton("❓ Usage", url="https://bit.ly/3z2jquF")
+        InlineKeyboardButton("🧸 Updates", url="https://t.me/CinematoBugTV"),
+        InlineKeyboardButton("❓ Usage", url="https://t.me/CinematoBugTV")
     ],
     [
         InlineKeyboardButton("🚫 Terminate", "terminate_btn"),
@@ -110,7 +110,7 @@ purging_skip_button = [
 
 purge_button = [
     [
-        InlineKeyboardButton("Nop", "purge_no_btn"),
+        InlineKeyboardButton("Nope", "purge_no_btn"),
         InlineKeyboardButton("Purge it 👍", "purge_yes_btn")
     ]
 ]
