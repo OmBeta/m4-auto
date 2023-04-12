@@ -3,7 +3,7 @@ class Presets(object):
     START_TEXT = "𝙃𝙚𝙡𝙡𝙤... {}\n𝐼 𝑐𝑎𝑛 𝑐𝑙𝑜𝑛𝑒 𝑚𝑒𝑑𝑖𝑎 𝑓𝑟𝑜𝑚 𝑎𝑛𝑦 𝑐ℎ𝑎𝑡 𝑡𝑜 𝑦𝑜𝑢𝑟 " \
                  "𝑝𝑒𝑟𝑠𝑜𝑛𝑎𝑙 𝑐ℎ𝑎𝑡 ! 𝐶𝑙𝑖𝑐𝑘 𝑠𝑒𝑡𝑡𝑖𝑛𝑔𝑠 𝑡𝑜 𝑐𝑜𝑛𝑓𝑖𝑔𝑢𝑟𝑒 𝑚𝑒. 𝐼𝑓 𝑦𝑜𝑢 " \
                  "𝑙𝑖𝑘𝑒 𝑚𝑒, 𝑝𝑙𝑒𝑎𝑠𝑒 𝑔𝑖𝑣𝑒 𝑎 𝑠𝑡𝑎𝑟 𝑖𝑛 𝑚𝑎 𝐺𝑖𝑡𝐻𝑢𝑏 𝑟𝑒𝑝𝑜. 𝑇ℎ𝑎𝑛𝑘𝑠 "
-    WELCOME_TEXT = "⭑⭑★✪ HELP for more info: ✪★⭑⭑"
+    WELCOME_TEXT = "⭑⭑★✪ Advanced Features: ✪★⭑⭑"
     MESSAGE_COUNT = """
 ╭──────⌈ 📥 Cloning ⌋──────╮<code>
 ├ CMID - {}
@@ -12,7 +12,7 @@ class Presets(object):
 ├ Time taken - {} {}
 ├ Clone started - {}
 ├ Last updated  - {}</code>
-├  🔰 <a href='t.me/RMProjects'><b>@RMProjects</b></a> || 🏅 <a href='https://github.com/m4mallu/clonebot-ui'><b>@Github</b></a>
+├  🔰 <a href='t.me/CinematoBugTV'><b>@CinematoBugTV</b></a> || 🏅 <a href='https://t.me/CinematoBugTV'><b>Main Channel</b></a>
 ╰──────⌈ 💢 Clonebot ⌋─────╯"""
     DUPLICATE_INDEX = """
 ╭──────⌈ ⚠️ Skipping ⌋──────╮<code>
@@ -52,7 +52,7 @@ You have selected:
 𝐅𝐫𝐨𝐦 𝐦𝐬𝐠 𝐈𝐝 : {} | 𝐓𝐨 𝐦𝐬𝐠 𝐈𝐝 : {}
 𝐃𝐞𝐥𝐚𝐲𝐞𝐝 : {} | 𝐂𝐚𝐩𝐭𝐢𝐨𝐧 : {}"""
     FILE_TYPES = ["document", "video", "audio", "voice", "photo", "text"]
-    COPIED_MESSAGES = "<b><a href='https://github.com/m4mallu/clonebot'>Medias Copied</a></b>"
+    COPIED_MESSAGES = "<b><a href='https://t.me/CinematoBugTV'>Medias Copied</a></b>"
     IN_CORRECT_PERMISSIONS_MESSAGE_DEST_POSTING = "A̶c̶c̶e̶s̶s̶ ̶D̶e̶n̶i̶e̶d̶\n\n𝘜𝘴𝘦𝘳 𝘪𝘴 𝘯𝘰𝘵 𝘢𝘯 𝘢𝘥𝘮𝘪𝘯 𝘰𝘳 𝘥𝘰𝘦𝘴𝘯'𝘵 𝘩𝘢𝘷𝘦\n" \
                                                   "𝘱𝘰𝘴𝘵𝘪𝘯𝘨 𝘱𝘳𝘪𝘷𝘪𝘭𝘢𝘨𝘦𝘴 𝘪𝘯 𝘵𝘩𝘦 𝘨𝘪𝘷𝘦𝘯 𝘤𝘩𝘢𝘵"
     USER_ABSENT_MSG = "𝙎𝙚𝙨𝙨𝙞𝙤𝙣 𝙪𝙨𝙚𝙧 𝙞𝙨 𝙣𝙤𝙩 𝙞𝙣 𝙩𝙝𝙚 𝙩𝙖𝙧𝙜𝙚𝙩 𝙘𝙝𝙖𝙩 𝙜𝙞𝙫𝙚𝙣"
@@ -177,7 +177,7 @@ Ended at Id   - {}
 📝 Text                  - {}
 ⚠️ Duplicates       - {}
 
-<u><b>Credits:</u></b> https://github.com/m4mallu
+<u><b>Credits:</u></b> https://t.me/CinematoBugTV
 """
     GET_CHAT_ID_MSG = "<b>You have been forwaded a message\nfrom a chat having the id:</b>\n\n<code>{" \
                       "}</code>\n<b>Message Id: </b><code>{}</code>\n\n<i>Tap the above text to copy !</i> "
